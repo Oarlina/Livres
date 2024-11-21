@@ -1,6 +1,6 @@
 ### Exercice de Formation : Reproduction d'une blibliographie d'auteur
 
-**Description du Projet**
+**Description du Projet**  
 Cet exercice a été réalisé dans le cadre d'une formation en développement web. L'objectif était de créer une blibliographie d'auteur en repsectant les bonnes pratiques de développement.
 
 **Langages et Technologies Utilisés**
